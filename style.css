@@ -33,6 +33,10 @@ body {
   cursor: pointer;
 }
 
+.show-modal:focus {
+  outline: none;
+}
+
 .close-modal {
   position: absolute;
   top: 1.2rem;
